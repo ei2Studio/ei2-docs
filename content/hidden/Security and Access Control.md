@@ -2,6 +2,8 @@
 title: Security and Access Control
 tags:
   - resource PMS
+  - resource
+  - PMS
 area: Software
 share: true
 ---

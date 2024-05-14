@@ -2,6 +2,8 @@
 title: Reservation Management
 tags:
   - resource PMS
+  - resource
+  - PMS
 area: Software
 share: true
 ---
