@@ -4,7 +4,7 @@ tags:
   - resource 
   - organization
 area: [[Hotel]]
-draft: false
+share: true
 ---
 
 # Functionalities

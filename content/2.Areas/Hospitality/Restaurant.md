@@ -2,7 +2,7 @@
 title: Restaurant
 tags:
   - area hospitality
-draft: false
+share: true
 ---
 
 # Basics:

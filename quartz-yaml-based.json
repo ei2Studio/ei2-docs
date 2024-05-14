@@ -24,7 +24,7 @@
     "yamlFolderKey": "category",
     "frontmatterTitle": {
       "enable": true,
-      "key": "name"
+      "key": "title"
     },
     "replaceTitle": [],
     "replacePath": [],

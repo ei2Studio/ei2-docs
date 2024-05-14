@@ -3,7 +3,7 @@ title: Billing and Invoicing
 tags:
   - resource PMS
 area: Software
-draft: false
+share: true
 ---
 
 The billing and invoicing process in a hotel is a crucial component of the financial transactions between the establishment and its guests. It involves accurately documenting charges for services rendered and providing guests with a clear breakdown of their expenses.

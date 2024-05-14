@@ -4,7 +4,7 @@ tags:
   - resource
   - infrastructure
 area: [[Hotel]]
-draft: false
+share: true
 ---
 
 # Software integration

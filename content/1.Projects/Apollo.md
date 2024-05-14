@@ -4,7 +4,7 @@ alias: apollo
 status: 🟢
 tags:
   - project
-draft: false
+share: true
 ---
 
 # Project knowledge base

@@ -4,7 +4,7 @@ tags:
   - resource 
   - organization
 area: [[Hotel]]
-draft: false
+share: true
 ---
 
 The back office functions of a hotel are critical for overall management, administration, and financial control. These functions often operate behind the scenes to ensure the smooth running of the hotel business. Here's a detailed breakdown of the various functionalities within the back office:

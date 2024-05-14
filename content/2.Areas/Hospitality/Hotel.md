@@ -2,7 +2,7 @@
 title: Hotel
 tags:
   - area hospitality
-draft: false
+share: true
 ---
 
 # Basics:

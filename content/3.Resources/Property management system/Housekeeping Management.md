@@ -3,7 +3,7 @@ title: Housekeeping Management
 tags:
   - resource PMS
 area: Software
-draft: false
+share: true
 ---
 
 Housekeeping management involves the efficient planning and coordination of tasks related to cleaning, maintenance, and overall upkeep of the hotel's rooms and common areas. 

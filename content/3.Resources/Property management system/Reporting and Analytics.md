@@ -3,7 +3,7 @@ title: Reporting and Analytics
 tags:
   - resource PMS
 area: Software
-draft: false
+share: true
 ---
 
 Reporting and analytics provides valuable insights, performance metrics, and data-driven decision-making.

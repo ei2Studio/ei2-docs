@@ -5,7 +5,7 @@ aliases:
 tags:
   - area
   - software
-draft: false
+share: true
 ---
 
 # Definition:
