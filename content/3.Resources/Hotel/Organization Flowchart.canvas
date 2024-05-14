@@ -1,0 +1,519 @@
+{
+  "nodes": [
+    {
+      "id": "38fb3645796ada4f",
+      "type": "text",
+      "text": "[[Organization#^8bd1e1 | Executive Committee]]",
+      "isStartNode": false,
+      "borderStyle": "dashed",
+      "x": -440,
+      "y": -560,
+      "width": 1315,
+      "height": 180
+    },
+    {
+      "id": "bd21724e8a072d43",
+      "type": "text",
+      "text": "Front Ofiice Staff",
+      "x": -1280,
+      "y": 48,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "c1bfc0cab1544166",
+      "type": "text",
+      "text": "Channel Manager Executive",
+      "x": -1100,
+      "y": 48,
+      "width": 160,
+      "height": 100
+    },
+    {
+      "id": "afa2e2d95732d207",
+      "type": "text",
+      "text": "[[Organization#^167ee6|  Front Office Manager]]",
+      "x": -1280,
+      "y": -72,
+      "width": 160,
+      "height": 57
+    },
+    {
+      "id": "a6812a9fb1ecb522",
+      "type": "text",
+      "text": "[[Organization#^7884fc | Front Office]]",
+      "x": -1100,
+      "y": -260,
+      "width": 160,
+      "height": 57
+    },
+    {
+      "id": "de924ee0fe716177",
+      "type": "text",
+      "text": "[[Organization#^2401fc| Resevations Manager]]",
+      "x": -1100,
+      "y": -72,
+      "width": 160,
+      "height": 57
+    },
+    {
+      "id": "039cec59497ee1c7",
+      "type": "text",
+      "text": "Maintenance Staff",
+      "x": -900,
+      "y": 48,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "79eae24e8dd02dc7",
+      "type": "text",
+      "text": "[[Organization#^93da2c| Security Manager]]",
+      "x": -713,
+      "y": -72,
+      "width": 160,
+      "height": 57
+    },
+    {
+      "id": "19259b77bdd8870e",
+      "type": "text",
+      "text": "Security  Staff",
+      "x": -713,
+      "y": 50,
+      "width": 160,
+      "height": 58
+    },
+    {
+      "id": "592b2c5ac053754c",
+      "type": "text",
+      "text": "[[Organization#^ea124d| Operations]]",
+      "x": -820,
+      "y": -260,
+      "width": 160,
+      "height": 57
+    },
+    {
+      "id": "1c3dfa1760fc4c57",
+      "type": "text",
+      "text": "[[Organization#^63abf6 | Director of Engineering]]",
+      "x": -900,
+      "y": -72,
+      "width": 160,
+      "height": 57
+    },
+    {
+      "id": "ca6a6da7fa5555e8",
+      "type": "text",
+      "text": "[[Organization#^b3e524| Housekeeping Manager]]",
+      "x": -510,
+      "y": -72,
+      "width": 170,
+      "height": 57
+    },
+    {
+      "id": "6709ddcc5477331a",
+      "type": "text",
+      "text": "[[Organization#^e18376| Housekeeping]]",
+      "x": -515,
+      "y": -260,
+      "width": 180,
+      "height": 57
+    },
+    {
+      "id": "1b5de6b397a2c78b",
+      "type": "text",
+      "text": "[[Organization#^c4ea0e | Concierge]]",
+      "x": -260,
+      "y": -260,
+      "width": 160,
+      "height": 57
+    },
+    {
+      "id": "c3749c4a482fe8da",
+      "type": "text",
+      "text": "Housekeeping staff",
+      "x": -510,
+      "y": 50,
+      "width": 170,
+      "height": 60
+    },
+    {
+      "id": "3e86684a0605cd97",
+      "type": "text",
+      "text": "[[Organization#^ae42e3| Laundry Manager]]",
+      "x": -300,
+      "y": -72,
+      "width": 165,
+      "height": 57
+    },
+    {
+      "id": "bbf8cd7759878d19",
+      "type": "text",
+      "text": "Laundry Staff",
+      "x": -300,
+      "y": 50,
+      "width": 165,
+      "height": 58
+    },
+    {
+      "id": "dbbbfdc491fee345",
+      "type": "text",
+      "text": "[[Organization#^1ee882 | General Manager]]",
+      "isStartNode": true,
+      "x": 48,
+      "y": -720,
+      "width": 340,
+      "height": 60
+    },
+    {
+      "id": "0270e23fc1fadc41",
+      "type": "text",
+      "text": "[[Organization#^5de83f| Sales and Marketing]]",
+      "x": -22,
+      "y": -260,
+      "width": 235,
+      "height": 57
+    },
+    {
+      "id": "6aae7076d9bd516a",
+      "type": "text",
+      "text": "[[Organization#^801d1c | COO]]",
+      "x": -377,
+      "y": -470,
+      "width": 160,
+      "height": 57
+    },
+    {
+      "id": "f03122643bd9f9ea",
+      "type": "text",
+      "text": "[[Organization#^490972 | CHR]]",
+      "x": 640,
+      "y": -470,
+      "width": 180,
+      "height": 57
+    },
+    {
+      "id": "115a2894786a1543",
+      "type": "text",
+      "text": "[[Organization#^080f5e| Sales Manager]]",
+      "x": -84,
+      "y": -72,
+      "width": 180,
+      "height": 57
+    },
+    {
+      "id": "2557a343c2620f97",
+      "type": "text",
+      "text": "[[Organization#^e69d51| Marketing Manager]]",
+      "x": 128,
+      "y": -72,
+      "width": 180,
+      "height": 57
+    },
+    {
+      "id": "f6874932d73e1803",
+      "type": "text",
+      "text": "Sales Staff",
+      "x": -84,
+      "y": 50,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "267fbaed86099ea0",
+      "type": "text",
+      "text": "Marketing Staff",
+      "x": 128,
+      "y": 50,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "0ba8edfff07b82b6",
+      "type": "text",
+      "text": "[[Organization#^040c93| CSM]]",
+      "x": -42,
+      "y": -470,
+      "width": 180,
+      "height": 57
+    },
+    {
+      "id": "c905c39bc6e70e50",
+      "type": "text",
+      "text": "[[Organization#^f12639 | CFO]]",
+      "x": 298,
+      "y": -470,
+      "width": 180,
+      "height": 57
+    },
+    {
+      "id": "eae2821e1710ac32",
+      "type": "text",
+      "text": "[[Organization#^a04d06| Finance and Accounting]]",
+      "x": 360,
+      "y": -260,
+      "width": 180,
+      "height": 57
+    },
+    {
+      "id": "e92f7d709085ed72",
+      "type": "text",
+      "text": "[[Organization#^a04d06| Finance and Accounting]]",
+      "x": 360,
+      "y": -72,
+      "width": 180,
+      "height": 57
+    },
+    {
+      "id": "83cc090336cfb5fe",
+      "type": "text",
+      "text": "[[Organization#^10d0ed| Controller]]",
+      "x": 360,
+      "y": 50,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "c1bb57b6c178a38e",
+      "type": "text",
+      "text": "[[Organization#^88b627| Bookeeper]]",
+      "x": 580,
+      "y": 48,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "4ee9b5461010258d",
+      "type": "text",
+      "text": "[[Organization#^6be343| HHRR]]",
+      "x": 670,
+      "y": -260,
+      "width": 180,
+      "height": 57
+    },
+    {
+      "id": "fa189e929e42a01a",
+      "type": "text",
+      "text": "[[Organization#^6be343| HHRR Manager]]",
+      "x": 580,
+      "y": -72,
+      "width": 180,
+      "height": 57
+    },
+    {
+      "id": "37750756a44d4964",
+      "type": "text",
+      "text": "[[Organization#^f4b6b1| Training Manager]]",
+      "x": 785,
+      "y": -72,
+      "width": 180,
+      "height": 57
+    }
+  ],
+  "edges": [
+    {
+      "id": "2ea6dc7aed2a8b5a",
+      "fromNode": "dbbbfdc491fee345",
+      "fromSide": "bottom",
+      "toNode": "38fb3645796ada4f",
+      "toSide": "top"
+    },
+    {
+      "id": "6526c4876cf1c201",
+      "fromNode": "6aae7076d9bd516a",
+      "fromSide": "bottom",
+      "toNode": "1b5de6b397a2c78b",
+      "toSide": "top"
+    },
+    {
+      "id": "52a750efe692b31c",
+      "fromNode": "6aae7076d9bd516a",
+      "fromSide": "bottom",
+      "toNode": "592b2c5ac053754c",
+      "toSide": "top"
+    },
+    {
+      "id": "33b64b1bb7910e97",
+      "fromNode": "6aae7076d9bd516a",
+      "fromSide": "bottom",
+      "toNode": "6709ddcc5477331a",
+      "toSide": "top"
+    },
+    {
+      "id": "af74e9286a614858",
+      "fromNode": "0ba8edfff07b82b6",
+      "fromSide": "bottom",
+      "toNode": "0270e23fc1fadc41",
+      "toSide": "top"
+    },
+    {
+      "id": "b805cbf709dce3c4",
+      "fromNode": "c905c39bc6e70e50",
+      "fromSide": "bottom",
+      "toNode": "eae2821e1710ac32",
+      "toSide": "top"
+    },
+    {
+      "id": "619b0541fc9b8d27",
+      "fromNode": "f03122643bd9f9ea",
+      "fromSide": "bottom",
+      "toNode": "4ee9b5461010258d",
+      "toSide": "top"
+    },
+    {
+      "id": "a441dd841634e5e1",
+      "fromNode": "592b2c5ac053754c",
+      "fromSide": "bottom",
+      "toNode": "1c3dfa1760fc4c57",
+      "toSide": "top"
+    },
+    {
+      "id": "1a686396735555f3",
+      "fromNode": "592b2c5ac053754c",
+      "fromSide": "bottom",
+      "toNode": "79eae24e8dd02dc7",
+      "toSide": "top"
+    },
+    {
+      "id": "d57bcbd6a218dca4",
+      "fromNode": "1c3dfa1760fc4c57",
+      "fromSide": "bottom",
+      "toNode": "039cec59497ee1c7",
+      "toSide": "top"
+    },
+    {
+      "id": "8054375792d435a0",
+      "fromNode": "6709ddcc5477331a",
+      "fromSide": "bottom",
+      "toNode": "ca6a6da7fa5555e8",
+      "toSide": "top"
+    },
+    {
+      "id": "20cfbe3cad3f3f26",
+      "fromNode": "6709ddcc5477331a",
+      "fromSide": "bottom",
+      "toNode": "3e86684a0605cd97",
+      "toSide": "top"
+    },
+    {
+      "id": "6c8f6c8b27a8cf89",
+      "fromNode": "ca6a6da7fa5555e8",
+      "fromSide": "bottom",
+      "toNode": "c3749c4a482fe8da",
+      "toSide": "top"
+    },
+    {
+      "id": "7ba74efc487b86ca",
+      "fromNode": "3e86684a0605cd97",
+      "fromSide": "bottom",
+      "toNode": "bbf8cd7759878d19",
+      "toSide": "top"
+    },
+    {
+      "id": "6371509642a72b8d",
+      "fromNode": "79eae24e8dd02dc7",
+      "fromSide": "bottom",
+      "toNode": "19259b77bdd8870e",
+      "toSide": "top"
+    },
+    {
+      "id": "0c6de40853eddbc9",
+      "fromNode": "0270e23fc1fadc41",
+      "fromSide": "bottom",
+      "toNode": "115a2894786a1543",
+      "toSide": "top"
+    },
+    {
+      "id": "9638bed5a2f48a96",
+      "fromNode": "0270e23fc1fadc41",
+      "fromSide": "bottom",
+      "toNode": "2557a343c2620f97",
+      "toSide": "top"
+    },
+    {
+      "id": "2093f8fdde0c7292",
+      "fromNode": "115a2894786a1543",
+      "fromSide": "bottom",
+      "toNode": "f6874932d73e1803",
+      "toSide": "top"
+    },
+    {
+      "id": "2c17fd93227769ae",
+      "fromNode": "2557a343c2620f97",
+      "fromSide": "bottom",
+      "toNode": "267fbaed86099ea0",
+      "toSide": "top"
+    },
+    {
+      "id": "d195e733755e99ff",
+      "fromNode": "eae2821e1710ac32",
+      "fromSide": "bottom",
+      "toNode": "e92f7d709085ed72",
+      "toSide": "top"
+    },
+    {
+      "id": "68650b03f8f506e8",
+      "fromNode": "e92f7d709085ed72",
+      "fromSide": "bottom",
+      "toNode": "83cc090336cfb5fe",
+      "toSide": "top"
+    },
+    {
+      "id": "d7cecd17d15273c2",
+      "fromNode": "e92f7d709085ed72",
+      "fromSide": "bottom",
+      "toNode": "c1bb57b6c178a38e",
+      "toSide": "top"
+    },
+    {
+      "id": "9f5025ee67bfc4b3",
+      "fromNode": "4ee9b5461010258d",
+      "fromSide": "bottom",
+      "toNode": "fa189e929e42a01a",
+      "toSide": "top"
+    },
+    {
+      "id": "6df0d3fc43b2feaf",
+      "fromNode": "4ee9b5461010258d",
+      "fromSide": "bottom",
+      "toNode": "37750756a44d4964",
+      "toSide": "top"
+    },
+    {
+      "id": "a03352a71d2cc7a9",
+      "fromNode": "6aae7076d9bd516a",
+      "fromSide": "bottom",
+      "toNode": "a6812a9fb1ecb522",
+      "toSide": "top"
+    },
+    {
+      "id": "92794b73d9899cee",
+      "fromNode": "afa2e2d95732d207",
+      "fromSide": "bottom",
+      "toNode": "bd21724e8a072d43",
+      "toSide": "top"
+    },
+    {
+      "id": "b9c1e7035c826f67",
+      "fromNode": "de924ee0fe716177",
+      "fromSide": "bottom",
+      "toNode": "c1bfc0cab1544166",
+      "toSide": "top"
+    },
+    {
+      "id": "d73505705818664b",
+      "fromNode": "a6812a9fb1ecb522",
+      "fromSide": "bottom",
+      "toNode": "afa2e2d95732d207",
+      "toSide": "top"
+    },
+    {
+      "id": "fc2d8ff7c2df8f96",
+      "fromNode": "a6812a9fb1ecb522",
+      "fromSide": "bottom",
+      "toNode": "de924ee0fe716177",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
