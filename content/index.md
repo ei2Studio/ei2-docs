@@ -1,7 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome Ei2 Studio
 
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Main page still on progress...
+
