@@ -11,11 +11,11 @@ share: true
 
 ## Hospitality:
 ###
-`$=dv.list(dv.pages("#area and #hospitality").file.link)`
+<Promise>
 
 ## Software:
 ### 
-`$=dv.list(dv.pages('#area and #software').file.link)`
+<Promise>
 
 ## Task:
 - [ ] 

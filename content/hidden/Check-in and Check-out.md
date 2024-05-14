@@ -2,6 +2,8 @@
 title: Check-in and Check-out
 tags:
   - resource PMS
+  - resource
+  - PMS
 area: Software
 share: true
 ---
