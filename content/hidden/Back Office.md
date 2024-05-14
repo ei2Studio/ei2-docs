@@ -1,9 +1,10 @@
 ---
 title: Back Office
 tags:
-  - resource 
+  - resource
   - organization
-area: [[Hotel]]
+area:
+  - - Hotel
 share: true
 ---
 

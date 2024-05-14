@@ -3,7 +3,8 @@ title: Technology
 tags:
   - resource
   - infrastructure
-area: [[Hotel]]
+area:
+  - - Hotel
 share: true
 ---
 
