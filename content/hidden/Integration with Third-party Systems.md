@@ -2,6 +2,8 @@
 title: Integration with Third-party Systems
 tags:
   - resource PMS
+  - resource
+  - PMS
 area: Software
 share: true
 draft: false

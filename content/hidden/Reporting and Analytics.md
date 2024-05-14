@@ -2,6 +2,8 @@
 title: Reporting and Analytics
 tags:
   - resource PMS
+  - resource
+  - PMS
 area: Software
 share: true
 draft: false

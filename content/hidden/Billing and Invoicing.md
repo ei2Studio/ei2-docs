@@ -2,6 +2,8 @@
 title: Billing and Invoicing
 tags:
   - resource PMS
+  - resource
+  - PMS
 area: Software
 share: true
 draft: false
