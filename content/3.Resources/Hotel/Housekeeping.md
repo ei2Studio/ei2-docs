@@ -1,11 +1,11 @@
 ---
 title: Housekeeping
 tags:
-  - resource
+  - resource 
   - organization
-area:
-  - - Hotel
+area: [[Hotel]]
 share: true
+draft: false
 ---
 
 # Functionalities

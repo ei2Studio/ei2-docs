@@ -2,10 +2,9 @@
 title: Check-in and Check-out
 tags:
   - resource PMS
-  - resource
-  - PMS
 area: Software
 share: true
+draft: false
 ---
 
 The check-in and check-out processes are pivotal stages in a guest's journey within a hotel, and efficient management of these processes is crucial for providing a positive guest experience. Here's an elaboration on the structure and characteristics of check-in and check-out procedures:

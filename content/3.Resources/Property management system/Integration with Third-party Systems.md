@@ -2,10 +2,9 @@
 title: Integration with Third-party Systems
 tags:
   - resource PMS
-  - resource
-  - PMS
 area: Software
 share: true
+draft: false
 ---
 
 Integration with third-party systems facilitates seamless communication and data flow between various software applications. This integration enhances efficiency, accuracy, and the overall guest experience. 

@@ -3,9 +3,9 @@ title: Reservation System
 tags:
   - resource
   - infrastructure
-area:
-  - - Hotel
+area: [[Hotel]]
 share: true
+draft: false
 ---
 
 # Channel Managers:

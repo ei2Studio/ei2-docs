@@ -1,14 +1,14 @@
 ---
 title: Organization
 tags:
-  - resource
+  - resource 
   - organization
-area:
-  - - Hotel
+area: [[Hotel]]
 share: true
+draft: false
 ---
 
-# [Organization Flowchart](../img/Organization%20Flowchart.canvas.md) :
+# [[Organization Flowchart.canvas|Organization Flowchart]] :
 
 - **General Manager:** ^1ee882
     - Responsible for overall management and operation of the hotel.

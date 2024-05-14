@@ -3,9 +3,9 @@ title: Rooms
 tags:
   - resource
   - infrastructure
-area:
-  - - Hotel
+area: [[Hotel]]
 share: true
+draft: false
 ---
 
 # Structure and characteristics:

@@ -2,10 +2,9 @@
 title: Security and Access Control
 tags:
   - resource PMS
-  - resource
-  - PMS
 area: Software
 share: true
+draft: false
 ---
 
 Security and access control are paramount in the hotel industry to ensure the safety of guests, staff, and property.

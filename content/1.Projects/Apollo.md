@@ -5,17 +5,18 @@ status: 🟢
 tags:
   - project
 share: true
+draft: false
 ---
 
 # Project knowledge base
 
 ## Hospitality:
 ###
-<Promise>
+`$=dv.list(dv.pages("#area and #hospitality").file.link)`
 
 ## Software:
 ### 
-<Promise>
+`$=dv.list(dv.pages('#area and #software').file.link)`
 
 ## Task:
 - [ ] 
