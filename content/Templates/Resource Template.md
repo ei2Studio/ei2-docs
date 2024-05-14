@@ -2,7 +2,7 @@
 title: 
 tags:
   - resource
-area: [[  | ]]
+area: 
 share: false
 ---
 

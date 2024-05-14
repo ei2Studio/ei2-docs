@@ -3,7 +3,7 @@ title: Reservation Management
 tags:
   - resource PMS
 area: Software
-share: true
+draft: false
 ---
 
 # Functionality

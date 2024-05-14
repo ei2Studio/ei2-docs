@@ -4,7 +4,7 @@ tags:
   - resource 
   - organization
 area: [[Hotel]]
-share: true
+draft: false
 ---
 
 # [[Organization Flowchart.canvas|Organization Flowchart]] :

@@ -4,7 +4,7 @@ tags:
   - resource
   - infrastructure
 area: [[Hotel]]
-share: true
+draft: false
 ---
 
 The facilities within a hotel contribute significantly to the overall guest experience, providing spaces and amenities for various activities and services. Here's an elaboration on the structure and characteristics of hotel facilities:

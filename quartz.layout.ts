@@ -9,7 +9,7 @@ const iconsOptions: IconFolderOptions = {
   default: {
     file: "file",
   },
-};
+}
 
 
 export const sharedPageComponents: SharedLayout = {
@@ -68,3 +68,5 @@ export const defaultListPageLayout: PageLayout = {
   left: defaultContentPageLayout.left,
   right: [],
 }
+
+

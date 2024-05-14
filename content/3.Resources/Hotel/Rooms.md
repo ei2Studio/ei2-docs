@@ -4,7 +4,7 @@ tags:
   - resource
   - infrastructure
 area: [[Hotel]]
-share: true
+draft: false
 ---
 
 # Structure and characteristics:
