@@ -2,16 +2,18 @@
 title: Restaurant
 tags:
   - area hospitality
+  - area
+  - hospitality
 share: true
 draft: false
 ---
 
 # Basics:
 - **Restaurant Infrastructure:**
-`$=dv.list(dv.pages('#resource and #infrastructure').where(t=>t.area == "Restaurat").file.link)`
+<Promise>
 
 - **Restaurant Organization:**
-`$=dv.list(dv.pages('#resource and #organization').where(t=>t.area == "Restaurant").file.link)`
+<Promise>
 
 # Business:
 - [ ] Missing Rules (Renato)
